@@ -1,3 +1,5 @@
+#TRY MUNA GUMAWA NG GRID
+
 import time
 import pygame
 import random
